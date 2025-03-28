@@ -64,4 +64,4 @@ Atualmente estou cursando o 5° periodo em Sistema de Informação.
     alt = "Github Stats"
     height = "100"
     style = "padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaDiasHora13&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7" /> 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaDiasHora13&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" /> 
