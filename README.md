@@ -1,7 +1,7 @@
 # 👨‍💻 Caua Dias Hora
 
-Me chamo Cauã dias hora, tenho 21 anos e sou natural do Espirito Santo.
-Atualmente estou cursando o 5° periodo em Sistema de Informação.
+Me chamo Cauã dias hora, tenho 23 anos e sou natural do Espirito Santo.
+Atualmente estou cursando o 8° periodo em Sistema de Informação.
 
    <p align="left">
       <a href="https://github.com/CauanDiasHora13?tab=followers">
